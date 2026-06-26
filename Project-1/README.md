@@ -1,7 +1,4 @@
 # Wisp Bot: A Rule-Based AI Chatbot
-
-![Wisp Bot Demo](https://placehold.co/600x400/png) <!-- Replace with a screenshot or GIF of your running bot -->
-
 ## Project Overview
 
 **Wisp Bot** is a sophisticated rule-based chatbot designed as part of the DecodeLabs Industrial Training Kit. It demonstrates fundamental concepts of Natural Language Processing (NLP) and Artificial Intelligence, including fuzzy matching, pattern recognition, and context-aware response generation.
